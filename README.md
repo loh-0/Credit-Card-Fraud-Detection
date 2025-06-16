@@ -11,7 +11,7 @@ Out of 250,000+ transactions, **only ~0.17% are fraudulent**. This extreme class
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 - **Source**: Publicly available anonymised credit card transaction dataset  
 - **Size**: ~250,000 records  
@@ -37,7 +37,7 @@ Out of 250,000+ transactions, **only ~0.17% are fraudulent**. This extreme class
 
 ---
 
-## 🔧 Implementation Steps
+## Implementation Steps
 
 1. **Preprocessing**
    - Cleaned and scaled features
